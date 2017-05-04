@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<html class='no-js'>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=EDGE" />
+    <meta content='width=device-width,initial-scale=1, user-scalable=no' name='viewport'>
+    <title>『OPPO手机官网』OPPO智能手机_OPPO最新款手机-OPPO智能手机官方网站</title>
+    <meta name="keywords" content="OPPO,OPPO手机官网,OPPO智能手机,OPPO拍照手机,OPPO新款手机,OPPO手机资讯" />
+    <meta name="description" content="OPPO是一家全球性智能手机制造商和移动互联网服务商，让您随时了解OPPO手机官网,OPPO智能手机,,OPPO拍照手机OPPO新款手机,OPPO手机资讯等内容，为客户开创先进的智能手机产品和移动互联网服务。" />
+    <link rel="stylesheet" type="text/css" href="/cn/assets/stylesheets/styles.css?v=201605031505">
+</head>
+
+<body>
+    <div class="main-content page-errors">
+        <div class="wrapper">
+            <a href="/"><img class="page-errors-logo" src="//shopfs.myoppo.com/cn/assets/images/logo-4.png"></a>
+            <img class="page-errors-content" src="//shopfs.myoppo.com/cn/assets/images/content/others/errors-404.png">
+            <a class="button button-back" href="/">返回首页</a>
+        </div>
+        <div class="page-errors-clouds">
+            <img class="col-left" src="//shopfs.myoppo.com/cn/assets/images/content/others/errors-cloud-left.png">
+            <img class="col-right" src="//shopfs.myoppo.com/cn/assets/images/content/others/errors-cloud-right.png">
+        </div>
+    </div>
+    <script type="text/javascript" src="/cn/lib/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript">
+    $(function() {
+        var wh = $(window).height();
+        $('.page-errors').height(wh);
+    });
+    </script>
+    <!-- 百度统计代码  -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?9cb8846b548404438c81aaa02eda4f0f";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+    <!--oppo统计-->
+    <script>
+    var _optj = _optj || [];
+    (function() {
+        var op = document.createElement("script");
+        op.src = "//shopfs.myoppo.com/hd/static/js/optj-1.1.0.min.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(op, s);
+    })();
+    </script>
+</body>

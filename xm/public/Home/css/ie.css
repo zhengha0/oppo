@@ -1,0 +1,189 @@
+﻿/*------------------------------------*\
+  $IE6, IE7, IE8
+\*------------------------------------*/
+/*------------------------------------*\
+    $VARIABLES
+\*------------------------------------*/
+/*------------------------------------*\
+    $HELPERS
+    -> Extends, Functions, Mixins, Animations
+\*------------------------------------*/
+.lt-ie9 {
+  /*
+    Payment-group
+  */
+  /*
+    Options-labels
+  */
+  /*
+    Header
+  */
+  /*
+    Form items
+  */
+  /*
+    Online-chat
+  */
+}
+.lt-ie9 .payment-group .radio-item.pay label {
+  border: 1px solid #cccccc;
+  background: #f7f7f7;
+}
+.lt-ie9 .payment-group .radio-item.pay.is-active label {
+  background: #fff;
+  border: 2px solid #2aad6f;
+}
+.lt-ie9 .options-labels {
+  position: relative;
+  top: 15px;
+  left: 0px;
+}
+.lt-ie9 .options-labels a {
+  float: left;
+  display: block;
+}
+.lt-ie9 .main-header .upper-area a {
+  padding: 8px 20px;
+  min-height: 0px;
+}
+.lt-ie9 .basic-input select {
+  border: 1px solid #cccccc;
+  min-height: 100%;
+  background: #fff;
+}
+.lt-ie9 .input-big-radio .aside {
+  min-height: 32px;
+}
+.lt-ie9 .input-button-item.search button span {
+  top: 50%;
+  left: 50%;
+  margin: -13px 0px 0px -8px;
+}
+.lt-ie9 .input-button-item.search input {
+  width: 100%;
+}
+.lt-ie9 .radio-item .radio {
+  top: 50%;
+  margin-top: -16px;
+}
+.lt-ie9 .radio-item.radio-color .radio {
+  margin-top: 0;
+}
+.lt-ie9 .online-chat {
+  min-width: 260px;
+}
+.lt-ie9 .online-chat-info {
+  width: 80%;
+}
+.lt-ie9 .online-chat-info .info {
+  width: 79%;
+}
+.lt-ie9 .online-chat-icon {
+  width: 20%;
+}
+.lt-ie9 .footer-prominent-button {
+  min-height: 74px;
+}
+.lt-ie9 .home-media-image a {
+  left: 0;
+  top: 0;
+}
+.lt-ie9 .news-text {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.lt-ie9 .js-tabs {
+  height: 1%;
+  overflow: auto;
+  display: block;
+}
+.lt-ie9 .js-tabs ul li {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.lt-ie9 .badge-icon .icons-plus {
+  left: 0;
+  top: 0;
+  background-image: url(../images/icons-plus_1.png) !important;
+}
+.lt-ie9 .badge-icon-tip {
+  left: -90px;
+  top: 145px;
+}
+.lt-ie9 .badge-icon-tip .badge-icon-tip-triangle {
+  display: none;
+}
+.lt-ie9 .badge-icon-tip .badge-icon-tip-close {
+  top: 0;
+  right: 0;
+}
+.lt-ie9 .badge-icon-tip .input-captcha a {
+  width: 100%;
+  display: inline-block;
+}
+.lt-ie9 .offline-store-map .map {
+  height: 300px !important;
+  overflow: hidden;
+}
+.lt-ie9 .location-map-legend {
+  margin-left: -1px !important;
+}
+.lt-ie9 .hide {
+  display: none !important;
+}
+.lt-ie9 .play-icon {
+  left: 40% !important;
+  top: 40% !important;
+}
+.lt-ie9 .choice-text {
+  left: 10% !important;
+  top: 30% !important;
+  text-align: center;
+}
+.lt-ie9 .history-left .history-date {
+  text-align: right;
+}
+.lt-ie9 .history-left .history-date span.dashed {
+  position: absolute;
+  right: -35px;
+  top: 13px;
+}
+.lt-ie9 .history-left .history-date span.circle {
+  position: absolute;
+  right: -51px;
+  top: 7px;
+}
+.lt-ie9 .diediephone select {
+  line-height: 30px;
+  min-height: 30px;
+}
+.lt-ie9 .full-carousel .hero-image img {
+  width: 100% !important;
+  max-width: 100% !important;
+  left: 0 !important;
+  top: 0 !important;
+  margin-top: 0;
+}
+
+/*
+  IE MESSAGE
+*/
+.message-content {
+  background: #fff;
+  border-top: 4px solid #1f8657;
+  padding: 40px 0px;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+.message-content p {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.ie7 .message-content {
+  position: fixed;
+}
+
+/*# sourceMappingURL=ie.css.map */
